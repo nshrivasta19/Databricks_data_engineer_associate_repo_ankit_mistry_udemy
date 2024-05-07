@@ -20,7 +20,7 @@ select * from cars
 
 -- MAGIC
 -- MAGIC %md
--- MAGIC # Create a stored procedure
+-- MAGIC # Create a stored view
 
 -- COMMAND ----------
 
